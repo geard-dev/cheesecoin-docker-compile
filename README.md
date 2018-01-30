@@ -40,7 +40,6 @@ This will download all the dependencies, the code, compile the code, install the
 All of that will be in a new docker container image. You can verify that a new container was created by:
 
 `docker images -a | grep litecoin`
-`litecoin                   latest              b41bcf72e530        7 weeks ago         3.96GB`
 
 ## Running the container
 
