@@ -4,7 +4,7 @@ This is meant to be a quick way to setup a Litecoin node from scratch. Yes, this
 
 ## Docker 
 
-TL;DR Docker is awesome and you should learn more about it.
+TL;DR [Docker](https://www.docker.com/) is awesome and you should learn more about it.
 
 Docker is a powerful virtualizaton tool which you can use to set something up real quick and have it isolated from your host environment. The separate environment that docker sets up is usually termed a "container".
 
